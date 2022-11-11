@@ -11,7 +11,7 @@
 ## Instalação
 
 1. Faça um clone desse repositório;
-2. Entre na pasta `cd lavanderia`;
+2. Entre na pasta `cd Projeto-master`;
 3. Execute `npm install` dentro da pasta para instalar as dependências ;
 
 
