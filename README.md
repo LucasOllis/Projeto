@@ -2,7 +2,7 @@
 
 ![Screenshot](Projeto.png)
 
-&#9989; Requisistos
+&#9989; <b>Requisistos</b>
 
 * [NodeJs](https://nodejs.org/en/)
 * [VisualStudioCode](https://code.visualstudio.com/) (Opcional)
@@ -11,14 +11,14 @@
 
 * [amqplib](https://www.npmjs.com/package/amqplib) - Utilizada para conectar e enviar/receber mensagens utilizando RabbitMQ
 
-&#128736; Instalação
+&#128736; <b>Instalação</b>
 
 1. Faça um clone desse repositório;
 2. Entre na pasta `cd Projeto-master`;
 3. Execute `npm install` dentro da pasta para instalar as dependências ;
 
 
-&#128221; Execução
+&#128221; <b>Execução</b>
 
 Execute no terminal o seguinte comando para criar as filiais:
 
@@ -53,4 +53,4 @@ No terminal que as filiais foram criadas aparacerá o que cada filial recebeu
 [FILIAL 3] Recebeu a mensagem: [{"id":1,"name":"tanquinho"},{"id":2,"name":"lava e seca"}]
 ```
 
-# Integrantes
+&#128101; <b>Integrantes</b>
