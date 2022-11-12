@@ -3,7 +3,7 @@
 ![Screenshot](Projeto.png)
 
 	
-:&#128193;: Requisistos
+&#128193; Requisistos
 
 * [NodeJs](https://nodejs.org/en/)
 * [VisualStudioCode](https://code.visualstudio.com/) (Opcional)
