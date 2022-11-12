@@ -12,7 +12,7 @@
 
 * [amqplib](https://www.npmjs.com/package/amqplib) - Utilizada para conectar e enviar/receber mensagens utilizando RabbitMQ
 
-&#128193; Instalação
+&#128736; Instalação
 
 1. Faça um clone desse repositório;
 2. Entre na pasta `cd Projeto-master`;
