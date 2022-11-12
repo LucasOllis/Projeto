@@ -5,6 +5,7 @@
 ## Requisistos
 
 * [NodeJs](https://nodejs.org/en/)
+* [VisualStudioCode](https://code.visualstudio.com/) (Opcional)
 
 ## Bibliotecas
 
