@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto A3 </h1> 
+<h1 align="center"> Projeto </h1> 
 
 ![Screenshot](Projeto.png)
 
