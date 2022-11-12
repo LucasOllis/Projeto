@@ -7,7 +7,7 @@
 * [NodeJs](https://nodejs.org/en/)
 * [VisualStudioCode](https://code.visualstudio.com/) (Opcional)
 
-&#128218; Bibliotecas
+&#128218; <b>Bibliotecas</b>
 
 * [amqplib](https://www.npmjs.com/package/amqplib) - Utilizada para conectar e enviar/receber mensagens utilizando RabbitMQ
 
