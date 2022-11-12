@@ -54,9 +54,10 @@ No terminal que as filiais foram criadas aparacerá o que cada filial recebeu
 ```
 
 &#128101; <b>Integrantes</b>
-
+  <di><b>
   <p>Lucas Macedo de Oliveira - 1272118785</p>
   <p>Victor Hugo Arruda Salles - 1272115787</p>
   <p>Bruno Magalhães Cardoso - 1272115565</p>
   <p>Wesley Wendel Melo Dos Santos - 1272115790</p>
   <p>Victor Hugo cordeiro fucilieri - 1272123431</p>
+  </div></b>
