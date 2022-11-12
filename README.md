@@ -1,5 +1,3 @@
-<h1 align="center"> Projeto </h1> 
-
 ![Screenshot](Projeto.png)
 
 &#9989; <b>Requisistos</b>
