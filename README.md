@@ -55,9 +55,9 @@ No terminal que as filiais foram criadas aparacerá o que cada filial recebeu
 
 &#128101; <b>Integrantes</b>
 
-  <p><b>Lucas Macedo de Oliveira</b> - 1272118785</p>
-  <p><b>Victor Hugo Arruda Salles</b> - 1272115787</p>
-  <p><b>Bruno Magalhães Cardoso</b> - 1272115565</p>
-  <p><b>Wesley Wendel Melo Dos Santos</b> - 1272115790</p>
-  <p><b>Victor Hugo cordeiro fucilieri</b> - 1272123431</p>
+  <p><b>Lucas Macedo de Oliveira - 1272118785</b></p>
+  <p><b>Victor Hugo Arruda Salles - 1272115787</b></p>
+  <p><b>Bruno Magalhães Cardoso</b> - 1272115565</b></p>
+  <p><b>Wesley Wendel Melo Dos Santos - 1272115790</b></p>
+  <p><b>Victor Hugo cordeiro fucilieri - 1272123431</b></p>
 
