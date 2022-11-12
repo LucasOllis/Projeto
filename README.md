@@ -1,6 +1,6 @@
 <h1 align="center"> Lavanderia </h1> 
 
-![Thumbnail GitHub](https://github.com/LucasOllis/Projeto/issues/1#issue-1446118731)
+![Screenshot](Projeto.png)
 
 ## Requisistos
 
