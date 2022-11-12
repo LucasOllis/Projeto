@@ -7,7 +7,7 @@
 * [NodeJs](https://nodejs.org/en/)
 * [VisualStudioCode](https://code.visualstudio.com/) (Opcional)
 
-&#128193; Bibliotecas
+&#128218; Bibliotecas
 
 * [amqplib](https://www.npmjs.com/package/amqplib) - Utilizada para conectar e enviar/receber mensagens utilizando RabbitMQ
 
@@ -18,7 +18,7 @@
 3. Execute `npm install` dentro da pasta para instalar as dependências ;
 
 
-&#128193; Execução
+&#128221; Execução
 
 Execute no terminal o seguinte comando para criar as filiais:
 
