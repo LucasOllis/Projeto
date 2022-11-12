@@ -1,6 +1,6 @@
 <h1 align="center"> Lavanderia </h1> 
 
-![Thumbnail GitHub](https://prnt.sc/o4rdKc_x7nTC)
+
 
 ## Requisistos
 
