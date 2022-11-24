@@ -51,7 +51,7 @@ No terminal que as filiais foram criadas aparacerá o que cada filial recebeu
 [FILIAL 3] Recebeu a mensagem: [{"id":1,"name":"tanquinho"},{"id":2,"name":"lava e seca"}]
 ```
 
-<img   height="42" width="42" src="https://media.giphy.com/media/2BoGmWv2weB2FHu34M/giphy.gif"/>
+<img   height="420" width="420" src="https://media.giphy.com/media/2BoGmWv2weB2FHu34M/giphy.gif"/>
 
 &#128101; <b>Integrantes</b>
 
