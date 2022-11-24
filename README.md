@@ -59,4 +59,5 @@ No terminal que as filiais foram criadas aparacerá o que cada filial recebeu
   <p><b>Wesley Wendel Melo Dos Santos - 1272115790</b></p>
   <p><b>Victor Hugo cordeiro fucilieri - 1272123431</b></p>
 
-(https://media.giphy.com/media/2BoGmWv2weB2FHu34M/giphy.gif)
+ <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
+"/>
